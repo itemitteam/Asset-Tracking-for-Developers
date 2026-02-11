@@ -25,4 +25,10 @@ If you’re managing a lab, a fleet of devices, or a remote-first engineering te
 
 "Hardware eventually fails. Your tracking system shouldn't."
 
+Get Started
+
+Want to automate your hardware management? Check out our documentation and start your journey toward 100% asset visibility.
+[Explore itemit Features](https://itemit.com/features/)
+
+
 
