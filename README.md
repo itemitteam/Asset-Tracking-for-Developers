@@ -1,10 +1,3 @@
----
-layout: post
-title: "Asset Tracking for Developers: Why itemit is the Source of Truth for Your Hardware"
-date: 2026-02-11
-description: "Discover why itemit acts as version control for physical hardware, helping developers manage devices, labs, and infrastructure with full visibility."
----
-
 ## 🛠️ Asset Tracking for Developers: Why itemit is the "Source of Truth" for Your Hardware
 
 As developers, we obsess over version control for our code. We use Git to know exactly who changed what, when, and why. But when it comes to the physical hardware that runs that code — servers, dev kits, IoT sensors, or high-end workstations — many teams are still stuck in the *pre-Git* era of messy spreadsheets.
